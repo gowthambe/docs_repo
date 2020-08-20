@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["react-syntax-highlighter_languages_highlight_c"],{9091:function(n,a){function e(n){var a=n.getLanguage("c-like").rawDefinition();return a.name="C",a.aliases=["c","h"],a}n.exports=e}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_highlight_c.9ec338ca.js.map

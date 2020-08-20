@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["react-syntax-highlighter_languages_highlight_plaintext"],{c027:function(t,e){function n(t){return{name:"Plain text",aliases:["text","txt"],disableAutodetect:!0}}t.exports=n}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_highlight_plaintext.22063e68.js.map

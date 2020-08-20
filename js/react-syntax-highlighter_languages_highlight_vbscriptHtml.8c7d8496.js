@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["react-syntax-highlighter_languages_highlight_vbscriptHtml"],{"61d1":function(n,i){function t(n){return{name:"VBScript in HTML",subLanguage:"xml",contains:[{begin:"<%",end:"%>",subLanguage:"vbscript"}]}}n.exports=t}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_highlight_vbscriptHtml.8c7d8496.js.map

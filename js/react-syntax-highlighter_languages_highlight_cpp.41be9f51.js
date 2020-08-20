@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["react-syntax-highlighter_languages_highlight_cpp"],{a479:function(e,a){function n(e){var a=e.getLanguage("c-like").rawDefinition();return a.disableAutodetect=!1,a.name="C++",a.aliases=["cc","c++","h++","hpp","hh","hxx","cxx"],a}e.exports=n}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_highlight_cpp.41be9f51.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["react-syntax-highlighter_languages_highlight_shell"],{ab2b:function(s,n){function a(s){return{name:"Shell Session",aliases:["console"],contains:[{className:"meta",begin:"^\\s{0,3}[/\\w\\d\\[\\]()@-]*[>%$#]",starts:{end:"$",subLanguage:"bash"}}]}}s.exports=a}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_highlight_shell.e8ac2054.js.map
